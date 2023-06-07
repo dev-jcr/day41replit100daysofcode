@@ -1,4 +1,5 @@
 # Dictionaries with loops
+
 webinfo={"name":None, "url":None,"description":None,"rating":None}
 title="🌟Website Rating🌟"
 print(f"{title:^35}")
